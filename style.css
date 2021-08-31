@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
 form {
     color:#fff;
   } 
 
   .purple-bg {
-    background-color: #220648!important;
+    background-color: #2206ff!important;
   }
 
   .fx-inputwrap a { 
